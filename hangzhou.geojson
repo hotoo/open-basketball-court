@@ -1,0 +1,1125 @@
+{
+  "type": "FeatureCollection",
+    "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.195366,
+        30.271696,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江省农业大学.开放",
+        "styleUrl": "#style52",
+        "styleHash": "7ab1d496",
+        "description": "<div>传说很火爆，有众多高手。</div>\n<div>室外的大片场地。<br>我没有去过，请知情朋友补充。<br></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.160248,
+        30.293678,
+        0
+          ]
+      },
+      "properties": {
+        "name": "工业大学.开放",
+        "styleUrl": "#style26",
+        "styleHash": "-2cddc9c3",
+        "description": "<div>真的很火爆，众多高手。人很多，所以球场不够用，但是同学们还是很热心的，不会拒绝加一组的要求。</div><div><br><br></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.132347,
+        30.287745,
+        0
+          ]
+      },
+      "properties": {
+        "name": "工商大学东校区.开放",
+        "styleUrl": "#style29",
+        "styleHash": "-63ba00e7",
+        "description": "<div dir=\"ltr\">场地较破烂，有一个新修的全场稍好。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.12899,
+        30.286629,
+        0
+          ]
+      },
+      "properties": {
+        "name": "工商大学西校区.开放",
+        "styleUrl": "#style45",
+        "styleHash": "1d55ca6a",
+        "description": "<div dir=\"ltr\">加上4个新场地，总共有8个全场。人气挺好，不多也不少。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.144394,
+        30.299664,
+        0
+          ]
+      },
+      "properties": {
+        "name": "中策职业高级中学.开放",
+        "styleUrl": "#style16",
+        "styleHash": "6ddda303",
+        "description": "<div>室外橡胶地，部分地方有点滑。</div>\n<div>大门处一般不设防，直接进去即可。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.144707,
+        30.299557,
+        0
+          ],
+        [
+          120.144905,
+        30.299622,
+        0
+          ],
+        [
+          120.145332,
+        30.298685,
+        0
+          ],
+        [
+          120.14505,
+        30.298347,
+        0
+          ],
+        [
+          120.145096,
+        30.298231,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "中策职高.大门-篮球场",
+        "styleUrl": "#style44",
+        "styleHash": "-27746d69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.128586,
+        30.286652,
+        0
+          ],
+        [
+          120.12851,
+        30.286655,
+        0
+          ],
+        [
+          120.128517,
+        30.286928,
+        0
+          ],
+        [
+          120.130203,
+        30.287064,
+        0
+          ],
+        [
+          120.130142,
+        30.287813,
+        0
+          ],
+        [
+          120.130463,
+        30.287842,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "工商大学西校区.校门-篮球场",
+        "styleUrl": "#style46",
+        "styleHash": "49a51355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.132362,
+        30.28767,
+        0
+          ],
+        [
+          120.130814,
+        30.287651,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "工商大学东校区.大门-篮球场",
+        "styleUrl": "#style1",
+        "styleHash": "726a3b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.150833,
+        30.230591,
+        0
+          ]
+      },
+      "properties": {
+        "name": "音乐学院.未知",
+        "styleUrl": "#style37",
+        "styleHash": "2984809e",
+        "description": "<div>文科学校，打球的人特别少，大都是校外人士进去打。</div>\n<div>以前是开放的，后来学校出了什么事，封闭了，现未知。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.150742,
+        30.230698,
+        0
+          ],
+        [
+          120.151138,
+        30.231201,
+        0
+          ],
+        [
+          120.150703,
+        30.231211,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "音乐学院.大门-室外篮球场",
+        "styleUrl": "#style39",
+        "styleHash": "1a4008f1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.152969,
+        30.230364,
+        0
+          ]
+      },
+      "properties": {
+        "name": "音乐学院.室内",
+        "styleUrl": "#style50",
+        "styleHash": "77b9ff07",
+        "description": "室内场地，木制地板（有部分损坏，），文科学校，打球的人特少，大都是校外人士进去打（以前开放，后来学校出了事封闭了，不知道现在怎么样）。只要场地开了门，门卫不拦你就没问题。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.152748,
+        30.230406,
+        0
+          ],
+        [
+          120.152382,
+        30.230381,
+        0
+          ],
+        [
+          120.152084,
+        30.230906,
+        0
+          ],
+        [
+          120.151329,
+        30.231211,
+        0
+          ],
+        [
+          120.150703,
+        30.231207,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "音乐学院.大门-室内篮球场",
+        "styleUrl": "#style51",
+        "styleHash": "7f09cfb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.155968,
+        30.246185,
+        0
+          ]
+      },
+      "properties": {
+        "name": "美术学院.开放",
+        "styleUrl": "#style20",
+        "styleHash": "694484d0",
+        "description": "<div dir=\"ltr\">室外水泥场，只有1个有效场地（全场）。<br>开放，门卫一般不拦，甚至还会给指路。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.156288,
+        30.24601,
+        0
+          ],
+        [
+          120.156189,
+        30.24589,
+        0
+          ],
+        [
+          120.155357,
+        30.246153,
+        0
+          ],
+        [
+          120.15522,
+        30.245939,
+        0
+          ],
+        [
+          120.155083,
+        30.245981,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "美术学院.侧面-篮球场",
+        "styleUrl": "#style49",
+        "styleHash": "734b5472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.14447,
+        30.285248,
+        0
+          ]
+      },
+      "properties": {
+        "name": "杭州育英专修学校",
+        "styleUrl": "#style33",
+        "styleHash": "4910e722",
+        "description": "<div dir=\"ltr\">门卫（老大爷）可能不会拦你（但有一次被一位大婶拦住了队伍，后来交了费用才算完）。<br>室外场地不错，也有不少人。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.144806,
+        30.285114,
+        0
+          ],
+        [
+          120.144981,
+        30.284784,
+        0
+          ],
+        [
+          120.144592,
+        30.284618,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "学校.大门-篮球场",
+        "styleUrl": "#style34",
+        "styleHash": "7f804716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.144257,
+        30.28548,
+        0
+          ],
+        [
+          120.144073,
+        30.285631,
+        0
+          ],
+        [
+          120.14389,
+        30.285536,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "学校.小门-篮球场",
+        "styleUrl": "#style30",
+        "styleHash": "-62b2ba66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1185,
+        30.266115,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江大学玉泉校区.开放",
+        "styleUrl": "#style4",
+        "styleHash": "-46b67ec8",
+        "description": "<div dir=\"ltr\">人气很足，柏油地面，比较热。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.120514,
+        30.26585,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江大学玉泉校区.开放",
+        "styleUrl": "#style11",
+        "styleHash": "41d74f62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.120346,
+        30.267115,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江大学玉泉校区.开放",
+        "styleUrl": "#style42",
+        "styleHash": "5c73e644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.147346,
+        30.179537,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style2",
+        "styleHash": "-36f04b86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.14817,
+        30.17469,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style31",
+        "styleHash": "58d71a64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.143829,
+        30.176792,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style38",
+        "styleHash": "21a166fd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.152519,
+        30.178173,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style19",
+        "styleHash": "2be825a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.158508,
+        30.175117,
+        0
+          ]
+      },
+      "properties": {
+        "name": "Placemark 17",
+        "styleUrl": "#style3",
+        "styleHash": "-3ed36527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.160583,
+        30.177797,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style7",
+        "styleHash": "-5e5fcbab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.160286,
+        30.176542,
+        0
+          ]
+      },
+      "properties": {
+        "name": "(未知)",
+        "styleUrl": "#style27",
+        "styleHash": "1e049b1d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.256233,
+        30.192766,
+        0
+          ]
+      },
+      "properties": {
+        "name": "萧山区第一中等职业学校(未知)",
+        "styleUrl": "#style35",
+        "styleHash": "394ab3e0",
+        "description": "<div dir=\"ltr\">开放程度未知。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.260246,
+        30.191172,
+        0
+          ]
+      },
+      "properties": {
+        "name": "萧山区第一中等职业学校(未知)",
+        "styleUrl": "#style12",
+        "styleHash": "39f435c1",
+        "description": "<div dir=\"ltr\">开放程度未知。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.226868,
+        30.192507,
+        0
+          ]
+      },
+      "properties": {
+        "name": "西兴中学(开放)",
+        "styleUrl": "#style36",
+        "styleHash": "6a296b25",
+        "description": "<div dir=\"ltr\">门卫会主动为体育爱好者开门。里面有开放的篮球、足球、乒乓球、排球场地。场地不拥挤，一般是中学生在打。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.227226,
+        30.190666,
+        0
+          ]
+      },
+      "properties": {
+        "name": "西兴小学(开放)",
+        "styleUrl": "#style21",
+        "styleHash": "489cecc9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.227074,
+        30.19236,
+        0
+          ],
+        [
+          120.227165,
+        30.1912,
+        0
+          ],
+        [
+          120.227402,
+        30.191113,
+        0
+          ],
+        [
+          120.227432,
+        30.190954,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "西兴中学",
+        "styleUrl": "#style9",
+        "styleHash": "-34735958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.227104,
+        30.190571,
+        0
+          ],
+        [
+          120.226646,
+        30.19005,
+        0
+          ],
+        [
+          120.226257,
+        30.190111,
+        0
+          ],
+        [
+          120.226234,
+        30.189995,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "西兴小学",
+        "styleUrl": "#style25",
+        "styleHash": "-20fe440c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.160347,
+        30.294102,
+        0
+          ],
+        [
+          120.16053,
+        30.294132,
+        0
+          ],
+        [
+          120.160912,
+        30.292601,
+        0
+          ],
+        [
+          120.161819,
+        30.292688,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "Line ",
+        "styleUrl": "#style18",
+        "styleHash": "-50634e70",
+        "description": "<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.149879,
+        30.323183,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江大学城市学院(北校区)",
+        "styleUrl": "#style43",
+        "styleHash": "19088255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.153084,
+        30.322378,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江大学城市学院(北校区)",
+        "styleUrl": "#style40",
+        "styleHash": "-138a8cee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.14991,
+        30.319618,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江树人大学",
+        "styleUrl": "#style5",
+        "styleHash": "-69ecdf1f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.130295,
+        30.281326,
+        0
+          ]
+      },
+      "properties": {
+        "name": "体育学院",
+        "styleUrl": "#style14",
+        "styleHash": "-3deaa707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.132355,
+        30.280518,
+        0
+          ]
+      },
+      "properties": {
+        "name": "未知",
+        "styleUrl": "#style8",
+        "styleHash": "-3d59cfdc",
+        "description": "<div dir=\"ltr\">文三路，教工路</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.134315,
+        30.280378,
+        0
+          ]
+      },
+      "properties": {
+        "name": "未知",
+        "styleUrl": "#style32",
+        "styleHash": "3d928a35",
+        "description": "<div dir=\"ltr\">文三路，教工路</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.105728,
+        30.288027,
+        0
+          ]
+      },
+      "properties": {
+        "name": "浙江财经学院",
+        "styleUrl": "#style10",
+        "styleHash": "-7959660b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.106659,
+        30.289232,
+        0
+          ],
+        [
+          120.106659,
+        30.289043,
+        0
+          ],
+        [
+          120.106377,
+        30.289034,
+        0
+          ],
+        [
+          120.106201,
+        30.288454,
+        0
+          ],
+        [
+          120.105888,
+        30.28809,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "浙江财经学院",
+        "styleUrl": "#style22",
+        "styleHash": "-4aa48529",
+        "description": "<div dir=\"ltr\">大门 - 篮球场</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.143517,
+        30.31344,
+        0
+          ]
+      },
+      "properties": {
+        "name": "欧尚.大关店门口",
+        "styleUrl": "#style47",
+        "styleHash": "-39a3c297",
+        "description": "<div dir=\"ltr\">一个小破烂半场，也有一些光膀子的人去打。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.096298,
+        30.272594,
+        0
+          ]
+      },
+      "properties": {
+        "name": "工地上的一个全场",
+        "styleUrl": "#style24",
+        "styleHash": "-2cd022b6",
+        "description": "<div dir=\"ltr\">水泥场地还行，打球的人比较少。<br>门卫一般不拦，不过里面有几只狼狗挺精神的。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.096176,
+        30.272764,
+        0
+          ],
+        [
+          120.096207,
+        30.272671,
+        0
+          ],
+        [
+          120.096268,
+        30.272667,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "工地上一个全场",
+        "styleUrl": "#style15",
+        "styleHash": "-7a098f8d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.095016,
+        30.274485,
+        0
+          ]
+      },
+      "properties": {
+        "name": "嘉绿景苑",
+        "styleUrl": "#style6",
+        "styleHash": "-7b2968c0",
+        "description": "<div dir=\"ltr\">一个小半场，原来是硬塑胶地面，09年底我最后一次去的时候场地已经脏烂到不行，球架也歪掉了。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.093208,
+        30.274155,
+        0
+          ],
+        [
+          120.093452,
+        30.273909,
+        0
+          ],
+        [
+          120.094688,
+        30.274414,
+        0
+          ],
+        [
+          120.094826,
+        30.274385,
+        0
+          ],
+        [
+          120.094986,
+        30.274479,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "嘉绿景苑",
+        "styleUrl": "#style28",
+        "styleHash": "8a7fd11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+          120.093658,
+        30.272602,
+        0
+          ],
+        [
+          120.093636,
+        30.272877,
+        0
+          ],
+        [
+          120.095009,
+        30.273108,
+        0
+          ],
+        [
+          120.094818,
+        30.274349,
+        0
+          ],
+        [
+          120.094818,
+        30.274391,
+        0
+          ]
+          ]
+      },
+      "properties": {
+        "name": "嘉绿景苑",
+        "styleUrl": "#style17",
+        "styleHash": "-8f00ecf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.107857,
+        30.27422,
+        0
+          ]
+      },
+      "properties": {
+        "name": "丰谭中学",
+        "styleUrl": "#style48",
+        "styleHash": "-6d097a38",
+        "description": "<div dir=\"ltr\">听篮球帮兄弟们说可以翻墙进去，也有网友说有个小门可以进去。我没有进去过。00</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.205429,
+        30.282473,
+        0
+          ]
+      },
+      "properties": {
+        "name": "汽车东站附近小区",
+        "styleUrl": "#style41",
+        "styleHash": "-54174d1",
+        "description": "<div dir=\"ltr\">【开放】汽车东站附近小区里的一个球场，较新，打球的也挺多。<br>一个同学住这边，带我去过一次，实际坐标不太清楚。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.126923,
+        30.270332,
+        0
+          ]
+      },
+      "properties": {
+        "name": "黄龙体育馆",
+        "styleUrl": "#style23",
+        "styleHash": "69594eb",
+        "description": "<div dir=\"ltr\">路上的一排半场，打球人蛮多。</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.127213,
+        30.269466,
+        0
+          ]
+      },
+      "properties": {
+        "name": "3个乒乓球桌",
+        "styleUrl": "#style13",
+        "styleHash": "3fe6d16a"
+      }
+    }
+  ]
+}
