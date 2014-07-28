@@ -1,7 +1,9 @@
 
-# 开放篮球场地地标工程 (Open Basketball Court Project)
+# 开放篮球场地地标工程
 
 ----
+
+Open Basketball Court Project
 
 ## 简介
 
